@@ -1,0 +1,3 @@
+![Author](https://img.shields.io/badge/Author-Job%20van%20Riet-orange.svg) ![license](https://img.shields.io/badge/license-GPL--3-blue.svg)
+
+This repository holds all the custom *R* scripts used in the detection and characterization of SRSR elements in the human reference genome as part of the "**CRISPRs in the human genome are differentially expressed between malignant and normal-adjacent to tumor tissue**" manuscript.
